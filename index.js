@@ -1,0 +1,1 @@
+export {simpleLoad} from './load'
