@@ -1,9 +1,9 @@
 {
-  "name": "WingJSUtils",
+  "name": "wing-js-utils",
   "version": "0.0.1",
   "license": "MIT",
   "private": true,
-  "main": "wing.js",
+  "main": "index.js",
   "engines": {
     "node": ">=4.0.0"
   },
